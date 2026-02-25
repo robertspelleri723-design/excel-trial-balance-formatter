@@ -27,3 +27,6 @@ The macro will clean up the layout automatically.
 
 Accountants often receive messy trial balances exported from ERP systems.
 This macro standardizes the format in one click, saving time and reducing manual formatting.
+
+<img width="1920" height="1032" alt="Screenshot 2026-02-25 141144" src="https://github.com/user-attachments/assets/47618243-2815-46ba-aab0-490d53fbad6f" />
+<img width="1920" height="1032" alt="Screenshot 2026-02-25 141246" src="https://github.com/user-attachments/assets/f7fc65f9-c7ab-4bf9-bc66-a08064d04b3c" />
